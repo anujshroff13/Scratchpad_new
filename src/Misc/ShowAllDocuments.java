@@ -1,3 +1,4 @@
+package Misc;
 import com.mongodb.MongoClient;
 import com.mongodb.DB;
 import com.mongodb.DBCollection;
