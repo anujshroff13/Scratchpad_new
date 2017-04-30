@@ -1,0 +1,16 @@
+main/java/scratchpad/app/keyvalue/KeyValueController.class
+main/java/scratchpad/MongoDB/Entities/Document/BasicDocumentOperations.class
+main/java/scratchpad/app/Misc/GreetingController.class
+main/java/scratchpad/MongoDB/Entities/Collection/BasicCollectionOperations.class
+main/java/scratchpad/app/Misc/Greeting.class
+main/java/scratchpad/app/keyvalue/KeyValue.class
+main/java/scratchpad/Database/IConnect.class
+main/java/scratchpad/app/Misc/PersonRepository.class
+main/java/scratchpad/app/keyvalue/KeyValueRepository.class
+main/java/scratchpad/app/Application.class
+main/java/scratchpad/MongoDB/connection/Connect.class
+main/java/scratchpad/app/Misc/AddNewDocument.class
+main/java/scratchpad/MongoDB/Entities/Document/KeyValueEntry2.class
+main/java/scratchpad/app/Misc/ShowAllDocuments.class
+main/java/scratchpad/app/Misc/Main.class
+main/java/scratchpad/app/Misc/Person.class

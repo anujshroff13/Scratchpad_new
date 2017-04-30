@@ -3,5 +3,13 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="lib" path="/Users/Anuj/Documents/Softwares/MongoDB/mongo-java-driver-2.11.4.jar"/>
+	<classpathentry kind="lib" path="/Users/Anuj/Documents/Libraries/spring-boot-1.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/Anuj/Documents/Libraries/spring-boot-autoconfigure-1.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/Anuj/Documents/Libraries/spring-context-4.3.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/Anuj/Documents/Libraries/spring-web-4.3.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/Anuj/Documents/Libraries/spring-data-mongodb-1.10.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/Anuj/Documents/Libraries/spring-beans-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/Anuj/Documents/Libraries/spring-data-commons-core-1.4.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/Anuj/Documents/Libraries/spring-data-commons-1.13.3.RELEASE.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
